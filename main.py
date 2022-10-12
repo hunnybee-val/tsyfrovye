@@ -21,3 +21,8 @@ eng_rus_dict = {
     "car":"машина"
 }
 print(eng_rus_dict['cat'])
+
+if tup == None :
+    print("hi!")
+else :
+    print("hi!!!")
